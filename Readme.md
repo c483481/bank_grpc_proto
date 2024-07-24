@@ -6,3 +6,11 @@ Repository ini digunakan untuk latihan gRPC dengan menggunakan Golang, dan secar
 
 - `proto/`: Direktori untuk file-file `.proto`.
 - `protogen/`: Direktori untuk hasil generasi kode.
+
+## Proto file
+
+- Service
+  - BankService
+- Payload
+  - Account proto
+  - Exchange proto
