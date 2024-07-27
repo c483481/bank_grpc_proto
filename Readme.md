@@ -14,3 +14,4 @@ Repository ini digunakan untuk latihan gRPC dengan menggunakan Golang, dan secar
 - Payload
   - Account proto
   - Exchange proto
+  - Transaction Proto
